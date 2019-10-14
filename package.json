@@ -10,11 +10,11 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "casper"     : "git+https://github.com/TryGhost/Casper.git#2.11.2",
-    "london"     : "git+https://github.com/cohesivedev/ghost-theme-london-modded.git",
-    "ghost"      : "^2.34.0",
+    "casper": "git+https://github.com/TryGhost/Casper.git#2.11.2",
+    "london": "git+https://github.com/cohesivedev/ghost-theme-london-modded.git",
+    "ghost": "~2.31.0",
     "ghost-imgur": "0.0.5",
-    "mysql"      : "^2.14.1"
+    "mysql": "^2.14.1"
   },
   "engines": {
     "node": "10.x"
